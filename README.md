@@ -1,2 +1,3 @@
-# flex-blockchain-dapp-nivr
+# Flex Blockchain Dapp Nivr
+
 A repository to test GitHub automation for issue management.
